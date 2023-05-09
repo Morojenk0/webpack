@@ -1,0 +1,9 @@
+@use "sass:math";
+@import "_normalize";
+@import "_fonts";
+@import "_variables";
+@import "_mixin&extend";
+
+html {
+	background-color: rgb(231, 230, 230);
+}
