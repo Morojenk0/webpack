@@ -1,8 +1,11 @@
 import React from "react";
-import "./Component.scss";
 
 const Component = () => {
-	return <></>;
+	return (
+		<>
+			<span className="hidden">react</span>
+		</>
+	);
 };
 
 export default Component;

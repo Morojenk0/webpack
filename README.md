@@ -1,3 +1,3 @@
 # Webpack
 
-My first webpack bundle
+Default bundle for building project with tailwind/react
