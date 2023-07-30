@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+}
+@layer components {
+}
+@layer utilities {
+	@font-face {
+		font-family: "";
+		src: url("./fonts/");
+	}
+}
