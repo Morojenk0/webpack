@@ -1,11 +1,11 @@
-import * as React from "react";
+import * as React from 'react'
 
 const Component = () => {
 	return (
 		<>
 			<span className="hidden">react</span>
 		</>
-	);
-};
+	)
+}
 
-export default Component;
+export default Component

@@ -8,7 +8,7 @@
 }
 @layer utilities {
 	@font-face {
-		font-family: "";
-		src: url("#");
+		font-family: '';
+		src: url('./fonts/');
 	}
 }
