@@ -5,6 +5,9 @@ module.exports = {
 		'./src/App.tsx',
 		'./src/components/**/*.{js,jsx,ts,tsx}',
 	],
+	// tablet 640px
+	// laptop 1021px
+	// desktop 1280px
 	theme: {
 		container: {
 			center: true,
